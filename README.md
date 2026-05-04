@@ -6,6 +6,7 @@ Slides of the [spring meetup 2026](https://www.meetup.com/adminr/events/31384838
 Moving a Legacy Code Base to Posit Workbench – Experiences from Government Finance Statistics
 Samuel Berger, Federal Finance Administration
 
+[Slides](https://github.com/swiss-adminR/202604_slides/blob/main/26_04_30_adminR_legacycode.pdf)
 
 KOMA – An R package for Bayesian estimation of simultaneous equation models
 Merlin Scherer, KOF Institut
