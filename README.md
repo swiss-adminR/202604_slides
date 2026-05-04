@@ -1,8 +1,13 @@
 # 202604_slides
 
-Slides of the spring meetup 2026 hosted by SECO in Bern.
+Slides of the [spring meetup 2026](https://www.meetup.com/adminr/events/313848380/?eventOrigin=group_past_events) hosted by the Federal Finance Administration at Bernerhof, Bern.
 
-KOMA – Konjunkturmonitoring mit R
-Merlin Scherer (KOF, ETH Zürich)
+
+Moving a Legacy Code Base to Posit Workbench – Experiences from Government Finance Statistics
+Samuel Berger, Federal Finance Administration
+
+
+KOMA – An R package for Bayesian estimation of simultaneous equation models
+Merlin Scherer, KOF Institut
 
 [Slides](https://github.com/swiss-adminR/202604_slides/blob/main/26_04_30_adminR_KOMA.pdf)
