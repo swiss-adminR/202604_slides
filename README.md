@@ -12,3 +12,8 @@ KOMA – An R package for Bayesian estimation of simultaneous equation models
 Merlin Scherer, KOF Institut
 
 [Slides](https://github.com/swiss-adminR/202604_slides/blob/main/26_04_30_adminR_KOMA.pdf)
+
+KOMA – Application to Financial Statistics
+Elio Bolliger, Federal Finance Administration
+
+[Slides](https://github.com/swiss-adminR/202604_slides/blob/main/26_04_30_adminR_KOMA_EFV.pdf)
